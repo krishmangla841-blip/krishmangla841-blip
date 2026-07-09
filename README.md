@@ -45,9 +45,4 @@
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://skillicons.dev/icons?i=canva" />
-
 </p>
