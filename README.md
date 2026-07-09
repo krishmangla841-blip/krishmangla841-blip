@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Java, DSA & Full Stack Development**
 - 👨‍💻 Passionate about **Programming & Open Source**
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Python, C, C++**
-- 📫 Email: **YOUR_EMAIL@gmail.com**
+- 📫 Email: **Krishmangla841@gmail.com**
 - 🔗 LinkedIn: **www.linkedin.com/in/krish-mangla-a946b137b**
 - ⚡ Fun Fact: **Code • Learn • Build • Repeat 🚀**
 
@@ -66,27 +66,6 @@
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishmangla841-blip&theme=onedark&row=1&column=7"/>
-
-</p>
-
----
-
-# 🔥 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishmangla841-blip&theme=tokyo-night"/>
-
-</p>
-
----
 
 <p align="center">
 
