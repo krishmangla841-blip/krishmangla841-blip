@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish Mangla</h1>
 <h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Open Source Enthusiast</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 B.Tech in Computer Science Engineering, **Chitkara University (2025–2029)**
 - 🌱 Currently learning **Java, DSA & Full Stack Development**
