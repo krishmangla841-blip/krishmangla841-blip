@@ -51,24 +51,3 @@
 <img src="https://skillicons.dev/icons?i=canva" />
 
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krishmangla841-blip&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishmangla841-blip&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmangla841-blip&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=krishmangla841-blip&color=blue)
-
-</p>
